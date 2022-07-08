@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud Computing**
 
-- 🤝 I’m looking for help with **Cloud Computing**
+- 🤝 I’m looking for help with **Google Cloud**
 
 - 📝 I regularly write articles on [CyberSecurity](CyberSecurity)
 
