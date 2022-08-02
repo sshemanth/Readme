@@ -11,7 +11,7 @@ A bit about Myself, I am <b>Ss Hemanth</b> pursuing my <b>Computer Science Degre
 
 <h1>Technical Skills ✷</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery and ReactJs. I have Worked on Various Salesforce Admin and Developer modules on Trailhead Platform . Have explored and built projects using Microsoft Azure , Amazon Web Services. 
+I have learned web-development and having knowledge of HTML,CSS & Javascript, Bootstrap. I have Worked on Various Salesforce Admin and Developer modules on Trailhead Platform . Have explored and built projects using Microsoft Azure , Amazon Web Services. 
 Tech: Microsoft Azure, Google cloud, SQL, Data Structures, Salesforce
  Known Languages: Python, C++, C, Java, Html, JavaScript, and CSS.
 
