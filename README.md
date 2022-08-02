@@ -1,6 +1,6 @@
 ![glenn-carstens-peters-npxXWgQ33ZQ-unsplash (1)](https://user-images.githubusercontent.com/98958362/182293778-c201b5ff-3b26-4984-a09a-3684fefab21e.jpg)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sri-sai-hemanth-bollepalli-b3689923b/" target="_blank"> Ss Hemanth </a></h1>
-<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
+<img width="40%" align="right"   src="https://user-images.githubusercontent.com/98958362/182294563-fa9c7195-bcd3-46ea-9668-4dfd7b6c1cd7.svg" >
 
 A bit about Myself, I am <b>Ss Hemanth</b> pursuing my <b>Computer Science Degree</b> from Tirumala Engineering College, As of now, I am focused on <b>web development, Cloud Computing and Salesforce </b> but still, wish to explore many fields. ⚡
 
